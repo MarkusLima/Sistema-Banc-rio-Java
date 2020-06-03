@@ -30,7 +30,7 @@ public class MeuBanco {
         JButton menuFinalizar = new JButton("Finalizar");
         menuFinalizar.setPreferredSize(new Dimension(150, 100));
         
-        JButton menuSobre = new JButton("Letícia Lopes Fagundes, 2013101323");
+        JButton menuSobre = new JButton("Markus Lima");
         menuSobre.setPreferredSize(new Dimension(300, 100));
         
         JPanel panel = new JPanel();
